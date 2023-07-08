@@ -44,20 +44,18 @@ header {
 .hero {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 15vh 0;
+    gap: 10vw;
 }
 
 .hero-img {
     flex: 1;
     max-height: 40vh;
-    background: url("https://images.pexels.com/photos/1619549/pexels-photo-1619549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-    background-size: cover;
-    background-position-y: 15%;
 }
 
 .hero-content {
     flex: 1;
-    padding-right: 150px;
 }
 
 .hero-main-text {
