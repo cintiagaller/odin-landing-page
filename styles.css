@@ -167,3 +167,11 @@ header {
     color: #e5e7eb;
     border: #e5e7eb 2px solid;
 }
+
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    padding: 5vh 0;
+}
