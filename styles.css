@@ -140,3 +140,30 @@ header {
     text-align: end;
     font-weight: 700;
 }
+
+.call-to-action {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    margin: 15vh 15%;
+    padding: 7vh 7vw;
+    border-radius: 8px;
+}
+
+.call-to-action-text h2 {
+    color: #f9faf8;
+}
+
+.call-to-action-text p {
+    color: #e5e7eb;
+}
+
+.call-to-action button {
+    padding: 8px 32px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: #e5e7eb 2px solid;
+}
